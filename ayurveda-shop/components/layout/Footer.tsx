@@ -84,7 +84,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2 mb-4 sm:mb-6">
               <div className="relative w-10 h-10 sm:w-12 sm:h-12 overflow-hidden rounded-full border-2 border-white/20 flex-shrink-0">
                 <img
-                  src="/logo.jpg"
+                  src="/logo.png"
                   alt="The Sweet Change Logo"
                   className="w-full h-full object-cover"
                 />

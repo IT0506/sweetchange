@@ -87,7 +87,7 @@ export default function Hero() {
             >
               <Sparkles className="w-4 h-4 text-accent" />
               <span className="text-xs sm:text-sm font-medium text-foreground">
-                100% Organic & Natural
+                100% Natural • No Bitter Aftertaste
               </span>
             </motion.div>
 
@@ -99,28 +99,9 @@ export default function Hero() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.3, duration: 0.8 }}
               >
-                Premium{" "}
-                <span className="text-primary relative inline-block">
-                  Ayurvedic Hair Oil
-                  <svg
-                    className="absolute -bottom-1 sm:-bottom-2 left-0 w-full"
-                    viewBox="0 0 300 12"
-                    fill="none"
-                  >
-                    <motion.path
-                      d="M2 10 Q150 2, 298 10"
-                      stroke="#C9A66B"
-                      strokeWidth="3"
-                      strokeLinecap="round"
-                      fill="none"
-                      initial={{ pathLength: 0 }}
-                      animate={{ pathLength: 1 }}
-                      transition={{ delay: 1, duration: 1 }}
-                    />
-                  </svg>
-                </span>
+                The Sweet Change
                 <br className="hidden sm:block" />
-                <span className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl">for Healthy Hair</span>
+                <span className="text-primary relative inline-block">100% Natural Sweetener</span>
               </motion.h1>
 
               <motion.p
@@ -129,7 +110,7 @@ export default function Hero() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.6, duration: 0.8 }}
               >
-                Traditional formula with bhringraj, amla, and hibiscus for thick, lustrous hair growth. Promotes healthy scalp and prevents premature graying.
+                Plant‑based sweeteners in convenient Liquid Drops and Powder formats — zero sugar, zero bitter aftertaste. Perfect for beverages, baking, and everyday cooking.
               </motion.p>
 
               {/* Special Offer Badge */}

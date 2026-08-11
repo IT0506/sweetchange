@@ -55,7 +55,7 @@ export default function Navbar() {
                 transition={{ duration: 0.3 }}
               >
                 <img
-                  src="/logo.jpg"
+                  src="/logo.png"
                   alt="The Sweet Change Logo"
                   className="w-full h-full object-cover"
                 />
