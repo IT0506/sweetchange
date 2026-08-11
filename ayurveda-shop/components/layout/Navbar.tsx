@@ -56,12 +56,12 @@ export default function Navbar() {
               >
                 <img
                   src="/logo.jpg"
-                  alt="Kosmico Wellness Logo"
+                  alt="The Sweet Change Logo"
                   className="w-full h-full object-cover"
                 />
               </motion.div>
               <span className="text-2xl font-serif font-bold text-primary">
-                Kosmico Wellness
+                The Sweet Change
               </span>
             </Link>
 

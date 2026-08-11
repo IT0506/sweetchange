@@ -71,8 +71,8 @@ export const revalidate = 1800; // 30 minutes
 
 // Enhanced homepage metadata
 export const metadata: Metadata = generatePageMetadata({
-  title: 'Ayurveda Haven - Pure Herbal & Natural Wellness Products',
-  description: 'Discover the healing power of Ayurveda. Premium herbal supplements, natural oils, and wellness products for holistic health. 100% organic, cruelty-free, and sustainably sourced. Free shipping on orders above ₹999.',
+  title: 'The Sweet Change - Natural Handcrafted Sweets & Gifts',
+  description: 'Shop handcrafted, natural sweets and responsible gifts from The Sweet Change. Ethically sourced ingredients, small-batch production, and thoughtful packaging. Free shipping on orders over ₹50. Discover our bestsellers and seasonal collections.',
   path: '/',
   keywords: [
     'ayurvedic products',
