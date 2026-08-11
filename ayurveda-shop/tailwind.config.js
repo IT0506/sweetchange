@@ -8,24 +8,24 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // Ayurvedic Brand Colors
+        // The Sweet Change brand colors (soft pink/coral palette)
         primary: {
-          DEFAULT: "#2E7D32",
-          light: "#A5D6A7",
-          dark: "#1B5E20",
+          DEFAULT: "#D6336C",
+          light: "#FF9BC6",
+          dark: "#B02E57",
         },
-        secondary: "#F9FBE7",
-        accent: "#C9A66B",
-        foreground: "#1B5E20",
-        background: "#F9FBE7",
+        secondary: "#FFF5F8",
+        accent: "#FFD6E0",
+        foreground: "#3B0B28",
+        background: "#FFF5F8",
         text: {
-          primary: "#1B5E20",
-          secondary: "#2E7D32",
-          muted: "#558B2F",
+          primary: "#3B0B28",
+          secondary: "#D6336C",
+          muted: "#8A3B4A",
         },
         border: {
-          DEFAULT: "#A5D6A7",
-          light: "#C5E1A5",
+          DEFAULT: "#FFD6E0",
+          light: "#FFEAF0",
         },
         success: "#66BB6A",
         warning: "#FFA726",

@@ -84,12 +84,12 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2 mb-4 sm:mb-6">
               <div className="relative w-10 h-10 sm:w-12 sm:h-12 overflow-hidden rounded-full border-2 border-white/20 flex-shrink-0">
                 <img
-                  src="/logo.jpg"
-                  alt="Kosmico Wellness Logo"
+                  src="/logo.png"
+                  alt="The Sweet Change Logo"
                   className="w-full h-full object-cover"
                 />
               </div>
-              <span className="text-xl sm:text-2xl font-serif font-bold">Kosmico Wellness</span>
+              <span className="text-xl sm:text-2xl font-serif font-bold">The Sweet Change</span>
             </Link>
 
             <p className="text-white/80 mb-4 sm:mb-6 leading-relaxed text-sm sm:text-base">

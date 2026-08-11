@@ -55,13 +55,13 @@ export default function Navbar() {
                 transition={{ duration: 0.3 }}
               >
                 <img
-                  src="/logo.jpg"
-                  alt="Kosmico Wellness Logo"
+                  src="/logo.png"
+                  alt="The Sweet Change Logo"
                   className="w-full h-full object-cover"
                 />
               </motion.div>
               <span className="text-2xl font-serif font-bold text-primary">
-                Kosmico Wellness
+                The Sweet Change
               </span>
             </Link>
 
